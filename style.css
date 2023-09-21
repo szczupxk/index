@@ -10,6 +10,10 @@
     background-image: image-set('bg3.jpg');
 }
 
+#bd4{
+    background-image: image-set('bg4.jpg');
+}
+
 #h1{
     font-size: 150px;
     text-align: center;
@@ -37,6 +41,13 @@
     color: blueviolet;
 }
 
+#h4{
+    font-size: 75px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: greenyellow; 
+}
 
 #img1{
     width: 900px;
@@ -49,6 +60,13 @@
     height: 1100px;
     margin-left: 30%;   
 }
+
+#img3{
+    width: 900px;
+    height: 1100px;
+    margin-left: 30%;   
+}
+
 
 #p1{
     font-size: 30px;
@@ -87,8 +105,7 @@
 }
 
 #b2:hover {
-    font-size: 40px
-    ;
+    font-size: 40px;
     width: 600px;
     height: 100px;
     margin-left: 38%;
@@ -103,8 +120,22 @@
 }
 
 #b3:hover {
-    font-size: 40px
-    ;
+    font-size: 40px;
+    width: 600px;
+    height: 100px;
+    margin-left: 38%;
+}
+
+#b4{
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    margin-left:44%;
+    background-color: white;
+}
+
+#b4:hover {
+    font-size: 40px;
     width: 600px;
     height: 100px;
     margin-left: 38%;
